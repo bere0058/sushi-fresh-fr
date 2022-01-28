@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/PUBLIC_URL=https://bere0058.github.io/sushi-fresh-fr/static/css/main.368faadb.css",
-    "main.js": "/PUBLIC_URL=https://bere0058.github.io/sushi-fresh-fr/static/js/main.5e36c1fa.js",
-    "static/js/787.8378e387.chunk.js": "/PUBLIC_URL=https://bere0058.github.io/sushi-fresh-fr/static/js/787.8378e387.chunk.js",
-    "static/media/yakisoba.jpg": "/PUBLIC_URL=https://bere0058.github.io/sushi-fresh-fr/static/media/yakisoba.3348ea389d9b37eda6a7.jpg",
-    "static/media/teriyaki.jpg": "/PUBLIC_URL=https://bere0058.github.io/sushi-fresh-fr/static/media/teriyaki.88067eb04693d1f5e3b8.jpg",
-    "static/media/yakitori.jpeg": "/PUBLIC_URL=https://bere0058.github.io/sushi-fresh-fr/static/media/yakitori.c73e757d95bdf59b0e62.jpeg",
-    "static/media/shopping-cart-outline-svgrepo-com.svg": "/PUBLIC_URL=https://bere0058.github.io/sushi-fresh-fr/static/media/shopping-cart-outline-svgrepo-com.b21da8b63f4b06e7e4ec.svg",
-    "index.html": "/PUBLIC_URL=https://bere0058.github.io/sushi-fresh-fr/index.html",
-    "static/media/menu-svgrepo-com.svg": "/PUBLIC_URL=https://bere0058.github.io/sushi-fresh-fr/static/media/menu-svgrepo-com.95d34329d25eaffc69d5.svg",
-    "main.368faadb.css.map": "/PUBLIC_URL=https://bere0058.github.io/sushi-fresh-fr/static/css/main.368faadb.css.map",
-    "main.5e36c1fa.js.map": "/PUBLIC_URL=https://bere0058.github.io/sushi-fresh-fr/static/js/main.5e36c1fa.js.map",
-    "787.8378e387.chunk.js.map": "/PUBLIC_URL=https://bere0058.github.io/sushi-fresh-fr/static/js/787.8378e387.chunk.js.map"
+    "main.css": "/static/css/main.a2b9fa8c.css",
+    "main.js": "/static/js/main.be57a297.js",
+    "static/js/787.8378e387.chunk.js": "/static/js/787.8378e387.chunk.js",
+    "static/media/yakisoba.jpg": "/static/media/yakisoba.3348ea389d9b37eda6a7.jpg",
+    "static/media/teriyaki.jpg": "/static/media/teriyaki.88067eb04693d1f5e3b8.jpg",
+    "static/media/yakitori.jpeg": "/static/media/yakitori.c73e757d95bdf59b0e62.jpeg",
+    "static/media/shopping-cart-outline-svgrepo-com.svg": "/static/media/shopping-cart-outline-svgrepo-com.b21da8b63f4b06e7e4ec.svg",
+    "static/media/menu-svgrepo-com.svg": "/static/media/menu-svgrepo-com.95d34329d25eaffc69d5.svg",
+    "index.html": "/index.html",
+    "main.a2b9fa8c.css.map": "/static/css/main.a2b9fa8c.css.map",
+    "main.be57a297.js.map": "/static/js/main.be57a297.js.map",
+    "787.8378e387.chunk.js.map": "/static/js/787.8378e387.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.368faadb.css",
-    "static/js/main.5e36c1fa.js"
+    "static/css/main.a2b9fa8c.css",
+    "static/js/main.be57a297.js"
   ]
 }
