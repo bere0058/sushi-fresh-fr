@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/en/immigration-refugees-citizenship/services/application/account.html/static/css/main.21d1f24a.css",
-    "main.js": "/en/immigration-refugees-citizenship/services/application/account.html/static/js/main.3b6d9664.js",
-    "static/js/787.6a14fc37.chunk.js": "/en/immigration-refugees-citizenship/services/application/account.html/static/js/787.6a14fc37.chunk.js",
-    "static/media/yakisoba.jpg": "/en/immigration-refugees-citizenship/services/application/account.html/static/media/yakisoba.3348ea389d9b37eda6a7.jpg",
-    "static/media/teriyaki.jpg": "/en/immigration-refugees-citizenship/services/application/account.html/static/media/teriyaki.88067eb04693d1f5e3b8.jpg",
-    "static/media/yakitori.jpeg": "/en/immigration-refugees-citizenship/services/application/account.html/static/media/yakitori.c73e757d95bdf59b0e62.jpeg",
-    "static/media/shopping-cart-outline-svgrepo-com.svg": "/en/immigration-refugees-citizenship/services/application/account.html/static/media/shopping-cart-outline-svgrepo-com.b21da8b63f4b06e7e4ec.svg",
-    "index.html": "/en/immigration-refugees-citizenship/services/application/account.html/index.html",
-    "static/media/menu-svgrepo-com.svg": "/en/immigration-refugees-citizenship/services/application/account.html/static/media/menu-svgrepo-com.95d34329d25eaffc69d5.svg",
-    "main.21d1f24a.css.map": "/en/immigration-refugees-citizenship/services/application/account.html/static/css/main.21d1f24a.css.map",
-    "main.3b6d9664.js.map": "/en/immigration-refugees-citizenship/services/application/account.html/static/js/main.3b6d9664.js.map",
-    "787.6a14fc37.chunk.js.map": "/en/immigration-refugees-citizenship/services/application/account.html/static/js/787.6a14fc37.chunk.js.map"
+    "main.css": "/sushi-fresh-fr/static/css/main.3917bfe1.css",
+    "main.js": "/sushi-fresh-fr/static/js/main.e1248695.js",
+    "static/js/787.6a14fc37.chunk.js": "/sushi-fresh-fr/static/js/787.6a14fc37.chunk.js",
+    "static/media/yakisoba.jpg": "/sushi-fresh-fr/static/media/yakisoba.3348ea389d9b37eda6a7.jpg",
+    "static/media/teriyaki.jpg": "/sushi-fresh-fr/static/media/teriyaki.88067eb04693d1f5e3b8.jpg",
+    "static/media/yakitori.jpeg": "/sushi-fresh-fr/static/media/yakitori.c73e757d95bdf59b0e62.jpeg",
+    "static/media/shopping-cart-outline-svgrepo-com.svg": "/sushi-fresh-fr/static/media/shopping-cart-outline-svgrepo-com.b21da8b63f4b06e7e4ec.svg",
+    "static/media/menu-svgrepo-com.svg": "/sushi-fresh-fr/static/media/menu-svgrepo-com.95d34329d25eaffc69d5.svg",
+    "index.html": "/sushi-fresh-fr/index.html",
+    "main.3917bfe1.css.map": "/sushi-fresh-fr/static/css/main.3917bfe1.css.map",
+    "main.e1248695.js.map": "/sushi-fresh-fr/static/js/main.e1248695.js.map",
+    "787.6a14fc37.chunk.js.map": "/sushi-fresh-fr/static/js/787.6a14fc37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21d1f24a.css",
-    "static/js/main.3b6d9664.js"
+    "static/css/main.3917bfe1.css",
+    "static/js/main.e1248695.js"
   ]
 }
