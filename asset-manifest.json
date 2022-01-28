@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2b9fa8c.css",
-    "main.js": "/static/js/main.2206a351.js",
-    "static/js/787.6a14fc37.chunk.js": "/static/js/787.6a14fc37.chunk.js",
-    "static/media/yakisoba.jpg": "/static/media/yakisoba.3348ea389d9b37eda6a7.jpg",
-    "static/media/teriyaki.jpg": "/static/media/teriyaki.88067eb04693d1f5e3b8.jpg",
-    "static/media/yakitori.jpeg": "/static/media/yakitori.c73e757d95bdf59b0e62.jpeg",
-    "static/media/shopping-cart-outline-svgrepo-com.svg": "/static/media/shopping-cart-outline-svgrepo-com.b21da8b63f4b06e7e4ec.svg",
-    "static/media/menu-svgrepo-com.svg": "/static/media/menu-svgrepo-com.95d34329d25eaffc69d5.svg",
-    "index.html": "/index.html",
-    "main.a2b9fa8c.css.map": "/static/css/main.a2b9fa8c.css.map",
-    "main.2206a351.js.map": "/static/js/main.2206a351.js.map",
-    "787.6a14fc37.chunk.js.map": "/static/js/787.6a14fc37.chunk.js.map"
+    "main.css": "/en/immigration-refugees-citizenship/services/application/account.html/static/css/main.21d1f24a.css",
+    "main.js": "/en/immigration-refugees-citizenship/services/application/account.html/static/js/main.3b6d9664.js",
+    "static/js/787.6a14fc37.chunk.js": "/en/immigration-refugees-citizenship/services/application/account.html/static/js/787.6a14fc37.chunk.js",
+    "static/media/yakisoba.jpg": "/en/immigration-refugees-citizenship/services/application/account.html/static/media/yakisoba.3348ea389d9b37eda6a7.jpg",
+    "static/media/teriyaki.jpg": "/en/immigration-refugees-citizenship/services/application/account.html/static/media/teriyaki.88067eb04693d1f5e3b8.jpg",
+    "static/media/yakitori.jpeg": "/en/immigration-refugees-citizenship/services/application/account.html/static/media/yakitori.c73e757d95bdf59b0e62.jpeg",
+    "static/media/shopping-cart-outline-svgrepo-com.svg": "/en/immigration-refugees-citizenship/services/application/account.html/static/media/shopping-cart-outline-svgrepo-com.b21da8b63f4b06e7e4ec.svg",
+    "index.html": "/en/immigration-refugees-citizenship/services/application/account.html/index.html",
+    "static/media/menu-svgrepo-com.svg": "/en/immigration-refugees-citizenship/services/application/account.html/static/media/menu-svgrepo-com.95d34329d25eaffc69d5.svg",
+    "main.21d1f24a.css.map": "/en/immigration-refugees-citizenship/services/application/account.html/static/css/main.21d1f24a.css.map",
+    "main.3b6d9664.js.map": "/en/immigration-refugees-citizenship/services/application/account.html/static/js/main.3b6d9664.js.map",
+    "787.6a14fc37.chunk.js.map": "/en/immigration-refugees-citizenship/services/application/account.html/static/js/787.6a14fc37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2b9fa8c.css",
-    "static/js/main.2206a351.js"
+    "static/css/main.21d1f24a.css",
+    "static/js/main.3b6d9664.js"
   ]
 }
