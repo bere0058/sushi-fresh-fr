@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@400;700&display=swap");
+
+$font-1: "Poppins",
+sans-serif;
+$font-2: "Heebo",
+sans-serif;
+
+$color-1: #FA8072;
+$color-2: #a77554;
+$color-3: #f6d9bb;
+$color-4: #000;
+$color-5: #f7f7f7;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0.4rem auto;
+  max-width: 1296px;
+  font-family: $font-1;
+  color: $color-5;
+  background-color: $color-4;
+  text-align: center;
+  font-size: 5vw;
+}
+
+h1,
+h2,
+.h2,
+h3,
+.h3 {
+  font-family: $font-2;
+}
+
+h1 {
+  padding: 6% 0;
+  font-size: 13vw;
+  color: $color-3;
+  background-color: $color-1;
+}
+
+h2,
+.h2 {
+  padding: 4% 0;
+  color: $color-2;
+  font-size: 10vw;
+}
+
+h3,
+.h3 {
+  padding: 4% 0;
+  font-size: 8vw;
+  color: $color-1;
+}
+
+h4, 
+.h4 {
+  color: $color-3;
+  font-size: 5vw;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: $color-5;
+  cursor: pointer;
+}
+
+a:visited {
+  color: $color-5;
+}
+
+/* Custom general style */
+main {
+  transition: ease-in 0.5s;
+}
+
+.main-container {
+  padding: 0 12%;
+}
+
+.bg-img-custom {
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.blur-effect {
+  filter: blur(8px);
+}
