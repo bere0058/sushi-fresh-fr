@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sushi-fresh-fr/static/css/main.3917bfe1.css",
-    "main.js": "/sushi-fresh-fr/static/js/main.3a80068f.js",
-    "static/js/787.8378e387.chunk.js": "/sushi-fresh-fr/static/js/787.8378e387.chunk.js",
-    "static/media/yakisoba.jpg": "/sushi-fresh-fr/static/media/yakisoba.3348ea389d9b37eda6a7.jpg",
-    "static/media/teriyaki.jpg": "/sushi-fresh-fr/static/media/teriyaki.88067eb04693d1f5e3b8.jpg",
-    "static/media/yakitori.jpeg": "/sushi-fresh-fr/static/media/yakitori.c73e757d95bdf59b0e62.jpeg",
-    "static/media/shopping-cart-outline-svgrepo-com.svg": "/sushi-fresh-fr/static/media/shopping-cart-outline-svgrepo-com.b21da8b63f4b06e7e4ec.svg",
-    "static/media/menu-svgrepo-com.svg": "/sushi-fresh-fr/static/media/menu-svgrepo-com.95d34329d25eaffc69d5.svg",
-    "index.html": "/sushi-fresh-fr/index.html",
-    "main.3917bfe1.css.map": "/sushi-fresh-fr/static/css/main.3917bfe1.css.map",
-    "main.3a80068f.js.map": "/sushi-fresh-fr/static/js/main.3a80068f.js.map",
-    "787.8378e387.chunk.js.map": "/sushi-fresh-fr/static/js/787.8378e387.chunk.js.map"
+    "main.css": "//bere0058.github.io/sushi-fresh-fr/static/css/main.8e129b84.css",
+    "main.js": "//bere0058.github.io/sushi-fresh-fr/static/js/main.7b1e9b42.js",
+    "static/js/787.8378e387.chunk.js": "//bere0058.github.io/sushi-fresh-fr/static/js/787.8378e387.chunk.js",
+    "static/media/yakisoba.jpg": "//bere0058.github.io/sushi-fresh-fr/static/media/yakisoba.3348ea389d9b37eda6a7.jpg",
+    "static/media/teriyaki.jpg": "//bere0058.github.io/sushi-fresh-fr/static/media/teriyaki.88067eb04693d1f5e3b8.jpg",
+    "static/media/yakitori.jpeg": "//bere0058.github.io/sushi-fresh-fr/static/media/yakitori.c73e757d95bdf59b0e62.jpeg",
+    "static/media/shopping-cart-outline-svgrepo-com.svg": "//bere0058.github.io/sushi-fresh-fr/static/media/shopping-cart-outline-svgrepo-com.b21da8b63f4b06e7e4ec.svg",
+    "static/media/menu-svgrepo-com.svg": "//bere0058.github.io/sushi-fresh-fr/static/media/menu-svgrepo-com.95d34329d25eaffc69d5.svg",
+    "index.html": "//bere0058.github.io/sushi-fresh-fr/index.html",
+    "main.8e129b84.css.map": "//bere0058.github.io/sushi-fresh-fr/static/css/main.8e129b84.css.map",
+    "main.7b1e9b42.js.map": "//bere0058.github.io/sushi-fresh-fr/static/js/main.7b1e9b42.js.map",
+    "787.8378e387.chunk.js.map": "//bere0058.github.io/sushi-fresh-fr/static/js/787.8378e387.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3917bfe1.css",
-    "static/js/main.3a80068f.js"
+    "static/css/main.8e129b84.css",
+    "static/js/main.7b1e9b42.js"
   ]
 }
