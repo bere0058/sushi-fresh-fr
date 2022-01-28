@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sushi-fresh-fr/static/css/main.3917bfe1.css",
-    "main.js": "/sushi-fresh-fr/static/js/main.3a80068f.js",
-    "static/js/787.8378e387.chunk.js": "/sushi-fresh-fr/static/js/787.8378e387.chunk.js",
-    "static/media/yakisoba.jpg": "/sushi-fresh-fr/static/media/yakisoba.3348ea389d9b37eda6a7.jpg",
-    "static/media/teriyaki.jpg": "/sushi-fresh-fr/static/media/teriyaki.88067eb04693d1f5e3b8.jpg",
-    "static/media/yakitori.jpeg": "/sushi-fresh-fr/static/media/yakitori.c73e757d95bdf59b0e62.jpeg",
-    "static/media/shopping-cart-outline-svgrepo-com.svg": "/sushi-fresh-fr/static/media/shopping-cart-outline-svgrepo-com.b21da8b63f4b06e7e4ec.svg",
-    "static/media/menu-svgrepo-com.svg": "/sushi-fresh-fr/static/media/menu-svgrepo-com.95d34329d25eaffc69d5.svg",
-    "index.html": "/sushi-fresh-fr/index.html",
-    "main.3917bfe1.css.map": "/sushi-fresh-fr/static/css/main.3917bfe1.css.map",
-    "main.3a80068f.js.map": "/sushi-fresh-fr/static/js/main.3a80068f.js.map",
-    "787.8378e387.chunk.js.map": "/sushi-fresh-fr/static/js/787.8378e387.chunk.js.map"
+    "main.css": "./static/css/main.87027e2d.css",
+    "main.js": "./static/js/main.49c2d99a.js",
+    "static/js/787.8378e387.chunk.js": "./static/js/787.8378e387.chunk.js",
+    "static/media/yakisoba.jpg": "./static/media/yakisoba.3348ea389d9b37eda6a7.jpg",
+    "static/media/teriyaki.jpg": "./static/media/teriyaki.88067eb04693d1f5e3b8.jpg",
+    "static/media/yakitori.jpeg": "./static/media/yakitori.c73e757d95bdf59b0e62.jpeg",
+    "static/media/shopping-cart-outline-svgrepo-com.svg": "./static/media/shopping-cart-outline-svgrepo-com.b21da8b63f4b06e7e4ec.svg",
+    "static/media/menu-svgrepo-com.svg": "./static/media/menu-svgrepo-com.95d34329d25eaffc69d5.svg",
+    "index.html": "./index.html",
+    "main.87027e2d.css.map": "./static/css/main.87027e2d.css.map",
+    "main.49c2d99a.js.map": "./static/js/main.49c2d99a.js.map",
+    "787.8378e387.chunk.js.map": "./static/js/787.8378e387.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3917bfe1.css",
-    "static/js/main.3a80068f.js"
+    "static/css/main.87027e2d.css",
+    "static/js/main.49c2d99a.js"
   ]
 }
