@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sushi-fresh/static/css/main.d009fb54.css",
-    "main.js": "/sushi-fresh/static/js/main.18601c2c.js",
-    "static/js/787.294c790e.chunk.js": "/sushi-fresh/static/js/787.294c790e.chunk.js",
-    "static/media/yakisoba.jpg": "/sushi-fresh/static/media/yakisoba.3348ea389d9b37eda6a7.jpg",
-    "static/media/teriyaki.jpg": "/sushi-fresh/static/media/teriyaki.88067eb04693d1f5e3b8.jpg",
-    "static/media/yakitori.jpeg": "/sushi-fresh/static/media/yakitori.c73e757d95bdf59b0e62.jpeg",
-    "static/media/shopping-cart-outline-svgrepo-com.svg": "/sushi-fresh/static/media/shopping-cart-outline-svgrepo-com.b21da8b63f4b06e7e4ec.svg",
-    "static/media/menu-svgrepo-com.svg": "/sushi-fresh/static/media/menu-svgrepo-com.95d34329d25eaffc69d5.svg",
-    "index.html": "/sushi-fresh/index.html",
-    "main.d009fb54.css.map": "/sushi-fresh/static/css/main.d009fb54.css.map",
-    "main.18601c2c.js.map": "/sushi-fresh/static/js/main.18601c2c.js.map",
-    "787.294c790e.chunk.js.map": "/sushi-fresh/static/js/787.294c790e.chunk.js.map"
+    "main.css": "/sushi-fresh-fr/static/css/main.3917bfe1.css",
+    "main.js": "/sushi-fresh-fr/static/js/main.a7502f71.js",
+    "static/js/787.294c790e.chunk.js": "/sushi-fresh-fr/static/js/787.294c790e.chunk.js",
+    "static/media/yakisoba.jpg": "/sushi-fresh-fr/static/media/yakisoba.3348ea389d9b37eda6a7.jpg",
+    "static/media/teriyaki.jpg": "/sushi-fresh-fr/static/media/teriyaki.88067eb04693d1f5e3b8.jpg",
+    "static/media/yakitori.jpeg": "/sushi-fresh-fr/static/media/yakitori.c73e757d95bdf59b0e62.jpeg",
+    "static/media/shopping-cart-outline-svgrepo-com.svg": "/sushi-fresh-fr/static/media/shopping-cart-outline-svgrepo-com.b21da8b63f4b06e7e4ec.svg",
+    "static/media/menu-svgrepo-com.svg": "/sushi-fresh-fr/static/media/menu-svgrepo-com.95d34329d25eaffc69d5.svg",
+    "index.html": "/sushi-fresh-fr/index.html",
+    "main.3917bfe1.css.map": "/sushi-fresh-fr/static/css/main.3917bfe1.css.map",
+    "main.a7502f71.js.map": "/sushi-fresh-fr/static/js/main.a7502f71.js.map",
+    "787.294c790e.chunk.js.map": "/sushi-fresh-fr/static/js/787.294c790e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d009fb54.css",
-    "static/js/main.18601c2c.js"
+    "static/css/main.3917bfe1.css",
+    "static/js/main.a7502f71.js"
   ]
 }
