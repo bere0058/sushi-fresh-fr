@@ -1,16 +1,37 @@
 import Navigation from '../components/Navigation';
+import React, { useState, useEffect } from 'react';
 import yakitori from '../assets/yakitori.jpeg';
 import yakisoba from '../assets/yakisoba.jpg';
 import teriyaki from '../assets/teriyaki.jpg';
 
-const Menu = () => {
+const Menu = (props) => {
+    const { dish } = props;
+    const [playOnce, setPlayOnce] = useState(true);
+    /* const data = menuData;  */
+    const [sortedData, setSortedData] = useState([]);
+    
+    /* useEffect(() => {
+        if (playOnce) {
+            const sortedPrice = () => {
+                const priceObject = Object.keys(data).map((i) => data[i]);
+                const sortedArray = priceObject.sort((a, b) => {
+                    return b.price - a.price
+                });
+                setSortedData(sortedArray);
+            };
+            sortedPrice();
+        }
+    }, [playOnce, data])
+    console.log(sortedData)   */
     return (
         <section>
-            <Navigation />
             <main>
                 <h1>Menu</h1>
                 <section className="main-container">
                     <h2>Yaki 1</h2>
+                    <section>
+                        <h2 key = "s"></h2>
+                    </section>
                     <img srcSet={yakitori} className="w-100 py-2" alt="yakitori"></img>
                     <h3>Yakitori</h3>
                     <ul>
@@ -36,6 +57,7 @@ const Menu = () => {
                     </ul>
                 </section>
             </main>
+            <Navigation />
         </section>
     );
 };

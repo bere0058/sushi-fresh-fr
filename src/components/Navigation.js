@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 const navigation = () => {
     return (
-        <nav className="sticky-top">
+        <nav className="sticky-top bottom-0 w-100">
             <section className="navigation nav-section p-3">
                 <ul className="nav justify-content-center">
                     <li className="nav-item bg-img-custom me-auto">
@@ -29,7 +29,7 @@ const navigation = () => {
                     </li>
                 </ul>
             </section>
-            <section className="nav-display position-fixed w-100 align-content-center d-flex">
+            <section className="nav-display position-fixed w-100 align-content-center d-flex top-0">
                 <ul className="m-auto">
                     <li>
                         <NavLink exact="true" to="/Menu" className={({ isActive }) => isActive ? "nav-active" : ""} className="h2">Menu</NavLink> 

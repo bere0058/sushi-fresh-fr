@@ -1,0 +1,19 @@
+.home {
+    background-image: url(https://images.unsplash.com/photo-1615361200098-9e630ec29b4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80);
+    background-attachment: fixed;
+    height: 100vh;
+
+    .logo-section {
+        height: 25vh;
+        background-image: url(https://www.sushifreshparis.fr/images/logo.png);
+        background-position: bottom;
+    }
+
+    .navigation {
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        height: min-content;
+    }
+}

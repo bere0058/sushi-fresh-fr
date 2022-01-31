@@ -7,7 +7,7 @@ import NotFound from './pages/NotFound';
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="https://bere0058.github.io/sushi-fresh-fr">
       <Routes>
         <Route exact path="/" element={<Home />}>
         </Route>

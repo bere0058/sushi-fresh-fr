@@ -12,6 +12,14 @@ $color-3: #f6d9bb;
 $color-4: #000;
 $color-5: #f7f7f7;
 
+.t-color-1 {
+  color: $color-1;
+}
+
+.t-color-3 {
+  color: $color-3;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -45,7 +53,7 @@ h1 {
 
 h2,
 .h2 {
-  padding: 4% 0;
+  padding: 16% 0 4%;
   color: $color-2;
   font-size: 10vw;
 }
@@ -60,7 +68,7 @@ h3,
 h4, 
 .h4 {
   color: $color-3;
-  font-size: 5vw;
+  font-size: 6vw;
 }
 
 ul {
