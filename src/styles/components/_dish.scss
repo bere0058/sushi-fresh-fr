@@ -1,6 +1,13 @@
-.dishes {
+.dish-container {
     h2 {
-        color: $color-3;
         background-color: $color-2;
+        color: $color-3;
+    }
+
+    .dish-card {
+        border-bottom: solid 1vw $color-2;
+    }
+    .dish-card:last-child {
+        border-bottom: none;
     }
 }

@@ -1,15 +1,15 @@
 import Navigation from '../../components/Navigation';
 import Dish from '../../components/Dish';
+import menuData from '../../components/menuData.json';
 
+let rawData = menuData[0].yakitori;
 const Yakitori = () => {
-    let selection = "yakitori"
-    Dish()
     return (
         <section>
-            <main className="dishes-container">
+            <main className="dish-container">
                 <h2>Yakitori</h2>
                 <section className="main-container">
-                    {Dish(selection)}    
+                    {Dish(rawData)}
                 </section>
             </main>
             <Navigation />

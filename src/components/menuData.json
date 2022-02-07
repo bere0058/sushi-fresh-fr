@@ -11,13 +11,26 @@
         "pieces": "2",
         "price": "4.50",
         "img": "https://www.sushifreshparis.fr/mobile/image_produit.php?id=158&genre=5"
+      },
+      {
+        "name": "Poulet",
+        "pieces": "2",
+        "price": "4.50",
+        "img": "https://www.sushifreshparis.fr/produits/YAKITORI/POULET-159.png"
       }
     ],
     "sushi": [
         {
             "name": "saumon",
             "pieces": "2",
-            "price": "3.50"
+            "price": "3.50",
+            "img": "https://www.sushifreshparis.fr/produits/SUSHI/SAUMON-108.png"
+        },
+        {
+            "name": "thon",
+            "pieces": "2",
+            "price": "4.00",
+            "img": "https://www.sushifreshparis.fr/produits/SUSHI/THON-109.png"
         }
     ]
   }]

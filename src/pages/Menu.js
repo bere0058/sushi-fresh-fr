@@ -8,7 +8,20 @@ const Menu = () => {
             <main>
                 <h1>Menu</h1>
                 <section className="main-container">
-                    <NavLink exact="true" to="/menu/yakitori">Yakitori</NavLink>
+                    <section className="menu-list">
+                        <div>
+                            <NavLink exact="true" to="/menu/yakitori">
+                                <img src="https://www.sushifreshparis.fr/images/top-nav/icon-67.png"></img>
+                                <h2>Yakitori</h2>
+                            </NavLink>
+                        </div>
+                        <div>
+                            <NavLink exact="true" to="/menu/sushi">
+                                <img src="https://www.sushifreshparis.fr/images/top-nav/icon-3.png"></img>
+                                <h2>Sushi</h2>
+                            </NavLink>
+                        </div>
+                    </section>
                 </section>
             </main>
             <Navigation />

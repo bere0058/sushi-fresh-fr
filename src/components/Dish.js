@@ -1,39 +1,34 @@
 import React, { useState, useEffect } from 'react';
 import menuData from '../components/menuData.json';
 
-const Dish = (lo) => {
-    const selection = lo;
+const Dish = (rawData) => {
     const data = menuData;
     const [playOnce, setPlayOnce] = useState(true);
-    const [sortedData, setSortedData] = useState([]);
-    const selectionData = sortedData.selection;
+    const [sortedData, setSortedData] = useState([]);;
 
     useEffect(() => {
         if (playOnce) {
             const sortedPrice = () => {
-                const priceObject = Object.keys(data).map((i) => data[i]);
-                const sortedArray = priceObject.sort((a, b) => {
+                const sortedArray = rawData.sort((a, b) => {
                     return b.price - a.price
                 });
-                setSortedData(sortedArray[0]);
+                setSortedData(sortedArray);
             };
             sortedPrice();
             setPlayOnce(false);
         }
     }, [playOnce, data]);
     /* Dishes box */
-    console.log(sortedData.yakitori)
-    console.log(selectionData)
     let dishBox;
-    if (sortedData.yakitori) {
+    if (sortedData) {
         dishBox =
-            sortedData.yakitori.map((dish) => (
-                <div className="border-top border-white border-1 mb-3">
+            sortedData.map((dish) => (
+                <section className="dish-card mb-3" role="article">
                     <h3 key={dish.name}>{dish.name}</h3>
                     <img key={dish.img} src={dish.img} className="img-fluid"></img>
                     <li key={dish}>{dish.price}€</li>
-                    <h4 key={dish.pieces}>{dish.pieces} Pieces</h4>
-                </div>
+                    <h4 key={dish.pieces}>{dish.pieces} Pièces</h4>
+                </section>
                 )
             )
 
