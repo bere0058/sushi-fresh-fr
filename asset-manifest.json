@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "/sushi-fresh-fr/static/css/main.3a471daa.css",
-    "main.js": "/sushi-fresh-fr/static/js/main.a720edcf.js",
-    "static/js/787.6a14fc37.chunk.js": "/sushi-fresh-fr/static/js/787.6a14fc37.chunk.js",
-    "static/media/yakisoba.jpg": "/sushi-fresh-fr/static/media/yakisoba.3348ea389d9b37eda6a7.jpg",
-    "static/media/teriyaki.jpg": "/sushi-fresh-fr/static/media/teriyaki.88067eb04693d1f5e3b8.jpg",
-    "static/media/yakitori.jpeg": "/sushi-fresh-fr/static/media/yakitori.c73e757d95bdf59b0e62.jpeg",
+    "main.css": "/sushi-fresh-fr/static/css/main.5027815e.css",
+    "main.js": "/sushi-fresh-fr/static/js/main.da1ec311.js",
+    "static/js/787.9cd0e1d3.chunk.js": "/sushi-fresh-fr/static/js/787.9cd0e1d3.chunk.js",
     "static/media/shopping-cart-outline-svgrepo-com.svg": "/sushi-fresh-fr/static/media/shopping-cart-outline-svgrepo-com.b21da8b63f4b06e7e4ec.svg",
     "static/media/menu-svgrepo-com.svg": "/sushi-fresh-fr/static/media/menu-svgrepo-com.95d34329d25eaffc69d5.svg",
     "index.html": "/sushi-fresh-fr/index.html",
-    "main.3a471daa.css.map": "/sushi-fresh-fr/static/css/main.3a471daa.css.map",
-    "main.a720edcf.js.map": "/sushi-fresh-fr/static/js/main.a720edcf.js.map",
-    "787.6a14fc37.chunk.js.map": "/sushi-fresh-fr/static/js/787.6a14fc37.chunk.js.map"
+    "main.5027815e.css.map": "/sushi-fresh-fr/static/css/main.5027815e.css.map",
+    "main.da1ec311.js.map": "/sushi-fresh-fr/static/js/main.da1ec311.js.map",
+    "787.9cd0e1d3.chunk.js.map": "/sushi-fresh-fr/static/js/787.9cd0e1d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a471daa.css",
-    "static/js/main.a720edcf.js"
+    "static/css/main.5027815e.css",
+    "static/js/main.da1ec311.js"
   ]
 }
