@@ -2,18 +2,16 @@ import Navigation from '../../components/Navigation';
 import Dish from '../../components/Dish';
 import menuData from '../../components/menuData.json';
 
-const rawData = menuData[0].sushi;
+const data = menuData[0].sushi;
 const Sushi = () => {
     return (
-        <section>
-            <main className="dish-container">
+        <main> 
+            <section className="dish-container">
                 <h2>Yakitori</h2>
-                <section className="main-container">
-                    {Dish(rawData)}
-                </section>
-            </main>
+                {Dish(data)}
+            </section>
             <Navigation />
-        </section>
+        </main>
     );
 };
 

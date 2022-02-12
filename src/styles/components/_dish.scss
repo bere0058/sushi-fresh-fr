@@ -4,9 +4,6 @@
         color: $color-3;
     }
 
-    .dish-card {
-        border-bottom: solid 1vw $color-2;
-    }
     .dish-card:last-child {
         border-bottom: none;
     }
