@@ -7,4 +7,12 @@
     .dish-card:last-child {
         border-bottom: none;
     }
+
+    .add-btn::after {
+        content: 'Ajouter';
+    }
+    
+    .added-btn::after {
+        content: 'Ajoutée';
+    }
 }

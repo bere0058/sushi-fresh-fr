@@ -2,8 +2,18 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 
 const navigation = () => {
+    const navHeight = () => {
+        const nav = document.querySelector('nav');
+        if (nav) {
+            if (nav.clientHeight <= '320') {
+                nav.classList.remove('sticky-top');
+                nav.classList.add('position-absolute');
+            }
+        } 
+    } 
+    navHeight()
     return (
-        <nav className="sticky-top bottom-0 w-100">
+        <nav className= "sticky-top bottom-0 w-100">
             <section className="navigation nav-section p-3">
                 <ul className="nav justify-content-center">
                     <li className="nav-item bg-img-custom me-auto">
