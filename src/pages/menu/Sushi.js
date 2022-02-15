@@ -1,6 +1,6 @@
 import Navigation from '../../components/Navigation';
 import Dish from '../../components/Dish';
-import menuData from '../../components/menuData.json';
+import menuData from '../../assets/menuData.json';
 
 const data = menuData[0].sushi;
 const Sushi = () => {

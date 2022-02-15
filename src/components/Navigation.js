@@ -12,7 +12,7 @@ const navigation = () => {
                         </NavLink>
                     </li>
                     <li className="nav-item bg-img-custom me-auto">
-                        <NavLink exact="true" to="/" className={({ isActive }) => isActive ? "nav-active" : ""}  >
+                        <NavLink exact="true" to="/Cart" className={({ isActive }) => isActive ? "nav-active" : ""}  >
                             <div></div>
                         </NavLink>
                     </li>
