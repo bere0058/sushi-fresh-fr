@@ -29,15 +29,6 @@ const Dish = (data) => {
                                 )}
                             >
                             </div>
-                            <div className="p-2 m-auto w-75 bg-color-1 add-btn"
-                                onClick={() => (
-                                    axios.delete('http://localhost:3004/cart', {
-                                        name: dish.name,
-                                        price: dish.price
-                                    })
-                                )}
-                            >
-                            </div>
                         </section>
                     )
                 )
