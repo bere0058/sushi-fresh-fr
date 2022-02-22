@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sushi-fresh-fr/static/css/main.5027815e.css",
-    "main.js": "/sushi-fresh-fr/static/js/main.2b9ddf78.js",
+    "main.css": "/sushi-fresh-fr/static/css/main.9b1199c9.css",
+    "main.js": "/sushi-fresh-fr/static/js/main.92672763.js",
     "static/js/787.9cd0e1d3.chunk.js": "/sushi-fresh-fr/static/js/787.9cd0e1d3.chunk.js",
     "static/media/shopping-cart-outline-svgrepo-com.svg": "/sushi-fresh-fr/static/media/shopping-cart-outline-svgrepo-com.b21da8b63f4b06e7e4ec.svg",
     "static/media/menu-svgrepo-com.svg": "/sushi-fresh-fr/static/media/menu-svgrepo-com.95d34329d25eaffc69d5.svg",
     "index.html": "/sushi-fresh-fr/index.html",
-    "main.5027815e.css.map": "/sushi-fresh-fr/static/css/main.5027815e.css.map",
-    "main.2b9ddf78.js.map": "/sushi-fresh-fr/static/js/main.2b9ddf78.js.map",
+    "main.9b1199c9.css.map": "/sushi-fresh-fr/static/css/main.9b1199c9.css.map",
+    "main.92672763.js.map": "/sushi-fresh-fr/static/js/main.92672763.js.map",
     "787.9cd0e1d3.chunk.js.map": "/sushi-fresh-fr/static/js/787.9cd0e1d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5027815e.css",
-    "static/js/main.2b9ddf78.js"
+    "static/css/main.9b1199c9.css",
+    "static/js/main.92672763.js"
   ]
 }
