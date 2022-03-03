@@ -8,7 +8,7 @@ const Cart = () => {
         getData()
     }, [])
     const getData = () => {
-        axios.get('http://localhost:3004/cart').then((res) => setCartData(res.data))
+        axios.get('http://localhost:3003/cart').then((res) => setCartData(res.data))
     }
     return (
         <section>
@@ -20,7 +20,7 @@ const Cart = () => {
                         <h3 className="col text-center t-color-2"> Prix</h3>
                     </div>
                     {cartData.map((dish) => (
-                        <div className="row">
+                        <div className="row" id={dish.name + " added"}>
                             <p className="col" key={dish.name}>{dish.name}</p>
                             <p className="col d-flex justify-content-center align-items-center" key={dish.price}>{dish.price}€</p>
                         </div>

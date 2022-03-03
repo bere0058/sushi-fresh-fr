@@ -1,17 +1,35 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { NavLink } from 'react-router-dom';
 
-const navigation = () => {
-    const navHeight = () => {
-        const nav = document.querySelector('nav');
+const Navigation = () => {
+    
+    const main = document.querySelector('main')
+    const nav = document.querySelector('nav');
+    const [mainH, setNavH] = useState();
+    useEffect (() => {
         if (nav) {
-            if (nav.clientHeight <= '320') {
+            setNavH(main.clientHeight)
+            if (main.clientHeight <= 320) {
                 nav.classList.remove('sticky-top');
                 nav.classList.add('position-absolute');
+                main.style.height = 'calc(100vh -' + nav.clientHeight + 'px)';
+            }
+            else {
+                nav.classList.add('sticky-top');
+                nav.classList.remove('position-absolute');
+                main.style.height = 'auto'
             }
         } 
-    } 
-    navHeight()
+    }, [mainH])
+    const btnClick = () => {
+        const navDisplay = document.querySelector('.nav-display');
+        const navigation = document.querySelector('.navigation');
+        const main = document.querySelector('main');
+        
+        navDisplay.classList.toggle('nav-display-move');
+        main.classList.toggle('blur-effect');
+        navDisplay.style.height = 'calc(100vh - '+ navigation.clientHeight + 'px)'
+    }
     return (
         <nav className= "sticky-top bottom-0 w-100">
             <section className="navigation nav-section p-3">
@@ -26,16 +44,7 @@ const navigation = () => {
                             <div></div>
                         </NavLink>
                     </li>
-                    <li className="nav-item bg-img-custom my-auto me-auto nav-btn" onClick={() => {
-                            const navDisplay = document.querySelector('.nav-display');
-                            const main = document.querySelector('main')
-                            const navigation = document.querySelector('.navigation');
-                            
-                            navDisplay.classList.toggle('nav-display-move');
-                            main.classList.toggle('blur-effect');
-                            navDisplay.style.height = 'calc(100vh - '+ navigation.clientHeight + 'px)'   
-                        }
-                    } >
+                    <li className="nav-item bg-img-custom my-auto me-auto nav-btn" onClick={() => btnClick()} >
                     </li>
                 </ul>
             </section>
@@ -54,4 +63,4 @@ const navigation = () => {
 
 };
 
-export default navigation;
+export default Navigation;

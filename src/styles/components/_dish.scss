@@ -8,11 +8,11 @@
         border-bottom: none;
     }
 
-    .add-btn::after {
-        content: 'Ajouter';
-    }
-    
     .added-btn::after {
         content: 'Ajoutée';
+    }
+    
+    .add-btn::after {
+        content: 'Ajouter';
     }
 }

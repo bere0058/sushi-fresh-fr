@@ -1,4 +1,9 @@
 {
   "cart": [
+    {
+      "name": "Thon",
+      "price": "4.00",
+      "id": "Thon"
+    }
   ]
 }
