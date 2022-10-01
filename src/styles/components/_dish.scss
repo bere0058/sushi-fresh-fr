@@ -1,0 +1,18 @@
+.dish-container {
+    h2 {
+        background-color: $color-2;
+        color: $color-3;
+    }
+
+    .dish-card:last-child {
+        border-bottom: none;
+    }
+
+    .added-btn::after {
+        content: 'Ajoutée';
+    }
+    
+    .add-btn::after {
+        content: 'Ajouter';
+    }
+}

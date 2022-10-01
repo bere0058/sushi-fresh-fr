@@ -1,0 +1,61 @@
+.navigation {
+    background-color: $color-4;
+
+    .nav,
+    .nav-section {
+        height: min-content;
+    }
+
+    .nav * {
+        height: 13vw;
+    }
+
+    li:nth-child(1) {
+        width: 45%;
+    }
+
+    .nav-item:nth-child(1) {
+        background-image: url(https://www.sushifreshparis.fr/images/logo.png);
+        background-size: contain;
+    }
+
+    .nav-item:nth-child(2) {
+        background-image: url(/assets/shopping-cart-outline-svgrepo-com.svg);
+        background-size: contain;
+        width: 20%;
+    }
+
+    .nav-item:nth-child(3) {
+        background-image: url(/assets/menu-svgrepo-com.svg);
+        background-size: contain;
+        width: 12%;
+        height: 10vw;
+    }
+
+
+    
+}
+
+/* Nav-display move */
+
+.nav-display {
+    background-color: rgba(0, 0, 0, 0.438);
+    transform: translateY(-100%);
+    z-index: 1010;
+    transition: 0.5s ease-in;
+    
+    li {
+        padding-bottom: 10vw;
+    }
+    .h2 {
+        height: 20vh;
+    }
+
+    .active {
+       color: $color-1;
+    }
+}
+
+.nav-display-move {
+    transform: translate(0);
+}
