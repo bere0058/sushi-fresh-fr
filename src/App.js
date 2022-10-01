@@ -11,8 +11,8 @@ import NotFound from './pages/NotFound';
 
 const App = () => {
   return (
-    //<BrowserRouter basename={process.env.PUBLIC_URL}>
-    <BrowserRouter>
+    //</BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route exact path="/commander" element={<Commander />} />
