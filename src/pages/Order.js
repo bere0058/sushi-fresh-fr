@@ -1,7 +1,7 @@
 import React from 'react';
 import Navigation from '../components/Navigation';
 
-const Commander = () => {
+const Order = () => {
     return (
         <section>
             <main>
@@ -25,4 +25,4 @@ const Commander = () => {
     );
 };
 
-export default Commander;
+export default Order;

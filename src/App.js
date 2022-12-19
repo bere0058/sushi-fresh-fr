@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Cart from './pages/Cart';
 import Home from './pages/Home';
 import Menu from './pages/Menu';
-import Commander from './pages/Commande';
+import Order from './pages/Order';
 import Yakitori from './pages/menu/Yakitori';
 import Sushi from './pages/menu/Sushi';
 import Sashimi from './pages/menu/Sashimi';
@@ -11,11 +11,10 @@ import NotFound from './pages/NotFound';
 
 const App = () => {
   return (
-    //</BrowserRouter>
     <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route exact path="/" element={<Home />} />
-        <Route exact path="/commander" element={<Commander />} />
+        <Route exact path="/commander" element={<Order />} />
         <Route exact path="/cart" element={<Cart />} />
         <Route exact path="/menu" element={<Menu />} />
         <Route exact path="/menu/yakitori" element={<Yakitori />} />

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { NavLink } from 'react-router-dom';
 
 const Navigation = () => {
@@ -33,10 +33,10 @@ const Navigation = () => {
             <section className="nav-display position-fixed w-100 align-content-center d-flex top-0">
                 <ul className="m-auto">
                     <li>
-                        <NavLink exact="true" to="/Menu" className={({ isActive }) => isActive ? "nav-active" : ""} className="h2">Menu</NavLink> 
+                        <NavLink exact="true" to="/Menu" className={({ isActive }) => isActive ? "nav-active h2" : "h2"}>Menu</NavLink> 
                     </li>
                     <li>
-                        <NavLink exact="true" to="/Commander" className={({ isActive }) => isActive ? "nav-active" : ""} className="h2">Commander</NavLink> 
+                        <NavLink exact="true" to="/Commander" className={({ isActive }) => isActive ? "nav-active h2" : "h2"}>Commander</NavLink> 
                     </li>
                 </ul>
             </section>
